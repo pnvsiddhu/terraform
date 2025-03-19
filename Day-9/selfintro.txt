@@ -1,0 +1,17 @@
+Naga Venkata Siddhartha Polavarapu. i am from Hyderabad
+
+I have 9+ years of experience in IT with 6 years of experience in the field of DevOps Build and Release Management Engineer 
+
+I am Specializing in continuous integration (CI) and continuous delivery (CD), ensures that software updates are delivered efficiently, reliably, and with minimal downtime.
+
+In my current position at Capgemini i was assigned to Flipkart project.
+
+Where I work closely with multiple teams of FK developers for build & release management . Fk team has their own CI/CD tool called Flow.
+
+My responsibilities are managing GitHub triggers, webhook integrations, and pull requests which are essential for maintaining a smooth CI/CD process.
+
+I have hands-on experience in troubleshooting build issues at the CI stage, ensuring that the code is continuously integrated and deployed without hiccups.
+
+For doing the the depoyment i follow gitOps approach where we use HELM as a packege management in Git Repo and deployes the application on PROD / Pre-Prod / PG 
+
+At Future Focus InfoTech, I configured and maintained Jenkins to automate the build process, integrating it with Maven to schedule builds efficiently. implemented various plugins for code coverage and unit testing, such as FindBugs and Checkstyle, which helped in maintaining code quality throughout the development lifecycle.
